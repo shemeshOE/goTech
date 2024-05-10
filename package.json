@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "fastify": "^4.27.0",
+    "pg": "^8.11.5",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  }
+}
